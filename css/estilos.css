@@ -13,3 +13,7 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+
+button#boton:hover {
+    background-color: #2980b9;
+}
